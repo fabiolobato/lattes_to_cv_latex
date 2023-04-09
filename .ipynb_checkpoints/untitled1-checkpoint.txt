@@ -1,0 +1,44 @@
+02/2023 -- Current & Formal languages and automata theory \\
+09/2022 -- 02/2023 & Methodology of scientific research \\
+&  Special topics on artificial intelligence \\
+09/2021 -- 02/2022 & Methodology of scientific research \\
+& Artificial intelligence \\
+09/2021 -- 01/2022 & Data science \\
+05/2021 -- 08/2021 & Formal languages and automata theory \\
+& Machine learning \\
+02/2020 -- 04/2021 & Methodology of scientific research \\
+&  Advanced topics in artificial intelligence \\
+08/2020 -- 10/2020 & Advanced topics in artificial intelligence \\
+03/2020 -- 04/2020 & Integrative seminar \\
+08/2019 -- 12/2019 & Formal languages and automata theory \\
+& Special topics on computational intelligence \\
+02/2019 -- 07/2019 & Special topics on machine learning \\
+03/2019 -- 06/2019 & Information and Communication Technologies \\
+10/2018 -- 02/2019 & Data structures \\
+&  Formal languages and automata theory \\
+10/2018 -- 02/2019 & Data structures \\
+& Web programming \\
+05/2018 -- 09/2018 & Methodology of scientific research \\
+& Special topics on computational intelligence \\
+& Information and communication Technologies \\
+09/2017 -- 03/2018 & Formal languages and automata theory \\
+08/2017 -- 12/2017 & Special topics on computational intelligence \\
+04/2017 -- 09/2017 & Methodology of scientific research \\
+& Formal languages and automata \\
+09/2016 -- 02/2017 & Data structures \\
+&  Formal languages and automata theory \\
+02/2016 -- 08/2016 & Introduction to computer science \\
+&  Computing theory \\
+09/2014 -- 01/2015 & Data structures \\
+& Introduction to computer science \\
+01/2014 -- 06/2014 & Programming logic \\
+& Knowledge engineering \\
+06/2013 -- 12/2013 & Formal languages and automata theory \\
+& Computational intelligence \\
+01/2013 -- 06/2013 & Data structures \\
+&  Theory of computation and computability \\
+& Compilers \\
+08/2012 -- 12/2012 & Theory of computation and computability \\
+& Algorithm analysis and design \\
+01/2011 -- 04/2011 & Costs, benefits and organizational impacts of information systems \\
+07/2010 -- 12/2010 & Costs, benefits and organizational impacts of information systems \\
